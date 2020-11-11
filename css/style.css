@@ -6,3 +6,10 @@
 .try {
 	margin-right: 10%;
 }
+#text {
+	font-family: 'Roboto Slab', serif;
+}
+.samp,
+.custom-font {
+	font-family: 'Fira Sans', sans-serif;
+}
